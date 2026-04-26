@@ -10,4 +10,6 @@ Edited README.md in main
 - `git log --oneline` → Short and readable history  
 - `git diff` → Shows exact code changes
 
+change in README.md locally
+
 
